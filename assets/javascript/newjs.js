@@ -138,8 +138,6 @@ $(document).ready(function(){
  			//}
  	//}
  		//} 
-
- 		$("#button").empty()
  		$("#button").html("Results");
 		$(":button").css("background-color", "blue");
 		button.innerHTML = "Restart";
@@ -245,3 +243,4 @@ $(document).ready(function(){
 
 
 //QUESTOINS: adding multiple onclick submit button & timeout options for each question
+
